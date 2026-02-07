@@ -3,6 +3,8 @@
 
 The code for my evilmouse project - HID Keystroke injection for the RP2040-Zero designed to send a PowerShell reverse shell to a target host with Administrator privileges - Fully bypasses Windows Defender
 
+This tool was built for **ethical** hacking purposes only. I am not resposnible for misusage of this tool.
+
 ## Make your own evilmouse
 
 - Hold down the BOOT button on your RP2040-zero and plug it in.
